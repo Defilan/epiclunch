@@ -3,6 +3,7 @@
 
 {{/* set image sizes, these are hardcoded for now, x dictates that images are resized to this width */}}
 
+{{ $ittyw := default "300x" }}
 {{ $tinyw := default "500x" }}
 {{ $smallw := default "800x" }}
 {{ $mediumw := default "1200x" }}
@@ -10,6 +11,7 @@
 
 {{/* resize the src image to the given sizes */}}
 
+{{ .Scratch.Set "itty" ($src.Resize $ittyw) }}
 {{ .Scratch.Set "tiny" ($src.Resize $tinyw) }}
 {{ .Scratch.Set "small" ($src.Resize $smallw) }}
 {{ .Scratch.Set "medium" ($src.Resize $mediumw) }}
@@ -17,6 +19,7 @@
 
 {{/* add the processed images to the scratch */}}
 
+{{ $itty := .Scratch.Get "itty" }}
 {{ $tiny := .Scratch.Get "tiny" }}
 {{ $small := .Scratch.Get "small" }}
 {{ $medium := .Scratch.Get "medium" }}
