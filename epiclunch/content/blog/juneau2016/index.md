@@ -3,9 +3,9 @@ title: "Fish & Chips with a side of glacier - Juneau, Alaska"
 date: 2021-05-24T23:47:12-07:00
 tags: ["glacier","alaska","fish&chips","lunch"]
 categories: ["lunch trip"]
-banner: "img/banners/snowbird1.jpeg"
+banner: "img/banners/glacier.jpeg"
 author: "Christopher P. Maher"
-draft: true
+draft: false
 ---
 ### ![Fish and Chips](https://www.hangaronthewharf.com/) with a side of glacier
 There are times when you just want to do something a little bit crazy. When I first started working in the airline business, a few of my friends wanted to take a trip with me to do something fun. As I did not have a lot of vacation time built up yet, the idea of an Epic Lunch Run was born. What destination could we choose that would be fun, but also somewhat outlandish, for lunch? Two of my good friends, Ben and Chuck, are also former coworkers at a different company.  When we all worked together on the same team, our idea of a far-out lunch was driving from Seattle to Issaquah (around 17miles) for some BBQ. After looking at what flights we could theoretically take in a morning and then return in the afternoon, all while finding some fun stuff to do during the day, Juneau, AK was where we settled on going.
