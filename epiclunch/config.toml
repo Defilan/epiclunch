@@ -91,9 +91,9 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Authors"
-    subtitle = "Epic Lunch Runs is all about our aviation community. Here are some of the authors of Epic Lunch Runs."
+    subtitle = "Epic Lunch Runs is all about our aviation community. Here are some of the authors:"
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
+    title = "Epic Lunch Blog"
     subtitle = "These are our stories of epic meals and fun adventures in non-revving. This is the spot to get ideas for those random trips to take with you and your friends."
