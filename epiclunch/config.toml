@@ -64,6 +64,8 @@ paginate = 10
 
     logo = "img/epic2.png"
     logo_small = "img/epic2.png"
+    css = ["css/custom.css"]
+
 
 [permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
