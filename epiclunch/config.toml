@@ -33,7 +33,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 1
     name = "GitHub"
-    url = "https://github.com/Defilan"
+    url = "https://github.com/Defilan/epiclunch"
     pre = "<i class='fab fa-2x fa-github'></i>"
 
 
@@ -46,7 +46,7 @@ paginate = 10
 [params]
     viewMorePostLink = "/blog/"
     author = "Christopher P. Maher"
-    defaultKeywords = ["devows", "hugo", "go"]
+    defaultKeywords = ["avgeek", "lunch", "travel","airlines","employee travel", "food"]
     mainSections = ["blog"]
     defaultDescription = "Culinary Non-Rev Adventures"
 
@@ -83,15 +83,9 @@ paginate = 10
 
 [params.carousel]
     enable = true
-    # All carousel items are defined in their own files. You can find example items
-    # at 'exampleSite/data/carousel'.
-    # For more informtion take a look at the README.
 
 [params.testimonials]
     enable = true
-    # All testimonials are defined in their own files. You can find example items
-    # at 'exampleSite/data/testimonials'.
-    # For more informtion take a look at the README.
     title = "Authors"
     subtitle = "Epic Lunch Runs is all about our aviation community. Here are some of the authors:"
 
