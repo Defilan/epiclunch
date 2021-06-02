@@ -28,6 +28,12 @@ paginate = 10
     url  = "/blog/"
     weight = 2
 
+[[menu.main]]
+    identifier="faq"
+    name = "Faq"
+    url  = "/faq/"
+    weight = 3
+
 # Top bar social links menu
 
 [[menu.topbar]]
@@ -64,6 +70,8 @@ paginate = 10
 
     logo = "img/epic2.png"
     logo_small = "img/epic2.png"
+    css = ["css/custom.css"]
+
 
 [permalinks]
     blog = "/blog/:year/:month/:day/:filename/"
