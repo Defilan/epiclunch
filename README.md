@@ -24,6 +24,7 @@ This blog is built on the [Hugo](https://gohugo.io) framework, allowing for easy
     ```
 
 ## Development
+### Creating New Blog Post
 
 1. Fork and Download this [repo](https://www.github.com/defilan/epiclunch).
 2. To create new blog post, navigate to the `epiclunch` directory in the project and run the following:
@@ -63,6 +64,28 @@ This blog is built on the [Hugo](https://gohugo.io) framework, allowing for easy
         ```
     * This code block allows for responsive pictures. The options for sizes (1200px was used in this example) are 300px, 500px, 800px, 1200px, and 1500px.
     * Again, all pictures you reference in this post must be located in your post directory
+
+### Testing New Post
+1. When you want to test your new post, navitate to the `epiclunch` directory within the repo and run the following:
+    ```bash
+    hugo server -D
+    ```
+    * This will host the site in memory on your computer. Open your browser to http://localhost:1313. You should see the Epic Lunch Runs site. Navitate to `Blog` to see your post. It should also appear on the homepage.
+2. When you are satisfied with your post, change the `Draft` from `true` to `false` in your post.
+
+### Add yourself as an author
+
+1. Add your perfered profile picture to the `img/testimonials` directory in `epiclunch`.
+2. Navigate to the `data/testimonials` directory in `epiclunch`.
+3. Take notice of the current `yaml` files in the directory. Create a new `yaml` file with the next sequential number.
+4. This is where you add your quick bio and link to your profile picture. It should look something like this:
+    ```bash
+    text: "Howdy! I’m a software engineering manager and overall geek. I love traveling with friends to grab an epic meal! I've traveled to Alaska, Oregon, California, and Texas in search of great meals for lunch. I'm excited to share ideas with fellow avgeeks!"
+    name: "Chris Maher"
+    position: "Software Engineering Manager"
+    avatar: "img/testimonials/maher.jpg"
+    ```
+
 
 
 ## Contributing
