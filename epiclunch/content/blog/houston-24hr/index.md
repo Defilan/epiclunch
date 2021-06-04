@@ -16,9 +16,9 @@ I’ve talked with my friends about the amazing food in Houston for years and du
 
 {{< img sizes="(min-width: 35em) 800px, 100vw" src="mountainsky.jpeg" alt="Mount Rainier from plane" >}}
 
-We arrived at IAH around 11:45PM and rented a car. One of my go to apps while traveling is called Hotel Tonight. We were able to find a place to crash close to downtown for a screaming deal. On the way to the hotel, we were hungry and when you’re hungry late-night in Texas, the place to visit is called Whataburger. If you ask folks around Houston where to get their late-night burgers, Whataburger (pronounced “Waterburger” by locals), is where you’ll be pointed. David and I each had our fill on Bacon and Cheese Whataburgers and crashed for the night.
+We arrived at IAH around 11:45PM and rented a car. One of my go to apps while traveling is called [Hotel Tonight](https://www.hoteltonight.com/). We were able to find a place to crash close to downtown for a screaming deal. On the way to the hotel, we were hungry and when you’re hungry late-night in Texas, the place to visit is called Whataburger. If you ask folks around Houston where to get their late-night burgers, [Whataburger](https://whataburger.com/home) (pronounced “Waterburger” by locals), is where you’ll be pointed. David and I each had our fill on Bacon and Cheese Whataburgers and crashed for the night.
 
-Growing up in Houston, TexMex is king when it comes to breakfast. A family favorite of our is called Migas, which is a TexMex egg dish with strips of tortillas and spices cooked together and eaten in corn tortillas. David and went to the Buffalo Grille on Bissonnet street and had a feast. Coffee, migas, grits, fresh tortillas, and some amazing salsa covered our table. This was the best way to start our day!
+Growing up in Houston, TexMex is king when it comes to breakfast. A family favorite of our is called Migas, which is a TexMex egg dish with strips of tortillas and spices cooked together and eaten in corn tortillas. David and went to the [Buffalo Grille](http://thebuffalogrille.com/) on Bissonnet street and had a feast. Coffee, migas, grits, fresh tortillas, and some amazing salsa covered our table. This was the best way to start our day!
 
 {{< img sizes="(min-width: 35em) 500px, 100vw" src="buffalo1.jpeg" alt="Buffalo Grille Coffee" >}}
 
@@ -26,7 +26,7 @@ Growing up in Houston, TexMex is king when it comes to breakfast. A family favor
 
 {{< img sizes="(min-width: 35em) 500px, 100vw" src="buffalo2.jpeg" alt="Buffalo Grille Food" >}}
 
-Since we just tanked up on breakfast, we took the 35minute drive from Buffalo Grille out to NASA’s Johnson Space Center. Being a huge NASA nerd since I was a kid, visiting this place is a must whenever I’m in town. When you arrive, the Rocket Park is free and open to visitors. Inside this immense structure is the world’s only fully intact, mission ready Saturn V rocket. Each section is exposed, allowing you to walk around it and admire it up close. Even to this day, the Saturn V is still the most powerful machine humans have ever built, burning 20tons of fuel per second with over 7.5million pounds of thrust during its first stage burn. It’s truly an engineering marvel.
+Since we just tanked up on breakfast, we took the 35minute drive from Buffalo Grille out to [NASA’s Johnson Space Center](https://spacecenter.org/). Being a huge NASA nerd since I was a kid, visiting this place is a must whenever I’m in town. When you arrive, the Rocket Park is free and open to visitors. Inside this immense structure is the world’s only fully intact, mission ready Saturn V rocket. Each section is exposed, allowing you to walk around it and admire it up close. Even to this day, the Saturn V is still the most powerful machine humans have ever built, burning 20tons of fuel per second with over 7.5million pounds of thrust during its first stage burn. It’s truly an engineering marvel.
 
 {{< img sizes="(min-width: 35em) 800px, 100vw" src="rocketpark.jpeg" alt="NASA Rocket Park" >}}
 
@@ -34,7 +34,7 @@ Since we just tanked up on breakfast, we took the 35minute drive from Buffalo Gr
 
 {{< img sizes="(min-width: 35em) 500px, 100vw" src="chrisnasa.jpeg" alt="Chris Rocket Park" >}}
 
-Once we finished looking at the rockets at the park, David and I drove back into town to visit my uncle’s Harley Davidson dealership. We toured around looking at the bikes they had in stock and began to head out to my favorite spot for lunch in Houston: Goode Company Taqueria. When in town for lunch at Goode Company, I highly recommend getting their beef fajitas plate. Mouthwatering beef is served sizzling with onions and peppers along with tortillas, guacamole, cheese, and beans. We washed this down with some Shiner beer. Saying this lunch was incredible doesn’t do it justice. 
+Once we finished looking at the rockets at the park, David and I drove back into town to visit my uncle’s [Harley Davidson](https://www.mancusocentral.com/) dealership. We toured around looking at the bikes they had in stock and began to head out to my favorite spot for lunch in Houston: [Goode Company Taqueria](https://goodecompanytaqueria.com/). When in town for lunch at Goode Company, I highly recommend getting their beef fajitas plate. Mouthwatering beef is served sizzling with onions and peppers along with tortillas, guacamole, cheese, and beans. We washed this down with some Shiner beer. Saying this lunch was incredible doesn’t do it justice. 
 
 {{< img sizes="(min-width: 35em) 800px, 100vw" src="goode.jpeg" alt="Goode Company" >}}
 
