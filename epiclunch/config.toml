@@ -1,4 +1,4 @@
-baseurl = "/"
+baseurl = "https://www.epiclunchruns.com"
 title = "Epic Lunch Runs"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
