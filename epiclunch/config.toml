@@ -28,6 +28,11 @@ paginate = 10
     url  = "/blog/"
     weight = 2
 
+[[menu.main]]
+    identifier="contribute"
+    name = "Contribute"
+    url  = "/contribute/"
+    weight = 3
 # Top bar social links menu
 
 [[menu.topbar]]
